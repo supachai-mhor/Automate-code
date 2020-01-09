@@ -1,0 +1,20 @@
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\bin\Release\WISE-PrivateServer.exe
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\bin\Release\WISE-PrivateServer.pdb
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\obj\Release\WISE_PrivateServer.Form1.resources
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\obj\Release\WISE_PrivateServer.Properties.Resources.resources
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\obj\Release\WISE-PrivateServer.csproj.GenerateResource.Cache
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\obj\Release\WISE-PrivateServer.exe
+C:\Users\teddy.lan\Desktop\WISE-PrivateServer\WISE-PrivateServer\obj\Release\WISE-PrivateServer.pdb
+C:\Program Files (x86)\Advantech\AdamApax.NET Class Library\Sample Code\WISE\Win32\CSharp\WISE-PrivateServer\WISE-PrivateServer\obj\Release\WISE-PrivateServer.exe
+C:\Program Files (x86)\Advantech\AdamApax.NET Class Library\Sample Code\WISE\Win32\CSharp\WISE-PrivateServer\WISE-PrivateServer\obj\Release\WISE-PrivateServer.pdb
+C:\Program Files (x86)\Advantech\AdamApax.NET Class Library\Sample Code\WISE\Win32\CSharp\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE-PrivateServer.exe
+C:\Program Files (x86)\Advantech\AdamApax.NET Class Library\Sample Code\WISE\Win32\CSharp\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE-PrivateServer.pdb
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\bin\Release\WISE-PrivateServer.exe
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\bin\Release\WISE-PrivateServer.pdb
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE-PrivateServer.csprojAssemblyReference.cache
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE_PrivateServer.Form1.resources
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE_PrivateServer.Properties.Resources.resources
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE-PrivateServer.csproj.GenerateResource.cache
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE-PrivateServer.exe
+D:\ASP NET Project\WISE-4012\WISE-PrivateServer_2.03\WISE-PrivateServer\obj\Release\WISE-PrivateServer.pdb
